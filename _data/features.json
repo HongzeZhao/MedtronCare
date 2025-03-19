@@ -1,0 +1,29 @@
+[
+  {
+    "title": "尿液样本HPV病毒显色试剂盒",
+    "description": "HPV病毒显色试剂盒通过将尿液样本与试剂混合，使试剂中的特定成分与HPV病毒DNA结合。在特定条件下，试剂会发生显色反应，从而通过颜色变化来判断是否存在HPV感染",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "幽门螺旋杆菌(HP)检测试纸",
+    "description": "当试纸中含有尿素和pH指示剂时，若存在幽门螺旋杆菌，其产生的尿素酶会分解尿素，释放出氨，使pH值升高，试纸颜色会发生变化（如从红色变为蓝色或黄色），从而判断是否存在幽门螺旋杆菌感染",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "传染病四联检测盒",
+    "description": "艾滋（人类免疫缺陷病毒）抗体检测、梅毒（梅毒螺旋体）抗体检测、乙肝（乙型肝炎病毒）检测、丙肝（丙型肝炎病毒）抗体检测",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

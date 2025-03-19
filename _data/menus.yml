@@ -1,0 +1,21 @@
+main:
+  - name: "服务"
+    url: "/services/"
+    weight: 2
+  - name: "团队"
+    url: "/team/"
+    weight: 3
+  - name: "关于美敦雅康"
+    url: "/about/"
+    weight: 4
+  - name: "联系我们"
+    url: "/contact/"
+    weight: 5
+
+footer:
+  - name: "首页"
+    url: "/"
+    weight: 1
+  - name: "联系我们"
+    url: "/contact/"
+    weight: 2
