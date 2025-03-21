@@ -3,11 +3,11 @@ permalink: pretty
 title: '美敦雅康医学'
 
 logo:
-  mobile: "images/logo/medtroncare-mobile.jpg"
+  mobile: "images/logo/medtron-logo-mobile.png"
   mobile_height: "64px"
   mobile_width: "64px"
-  desktop: "images/logo/medtroncare.jpg"
-  desktop_height: "60px"
+  desktop: "images/logo/medtron-logo.jpg"
+  desktop_height: "80px"
   desktop_width: "200px"
 
 home: 
