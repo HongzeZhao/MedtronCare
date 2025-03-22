@@ -1,5 +1,5 @@
 ---
-title: 美敦雅康医学 - 健康服务
+title: 美敦雅康服务
 layout: services
 description: Services
 intro_image: "images/illustrations/doctor_discuss.jpg"

@@ -1,5 +1,5 @@
 ---
-title: 美敦雅康医学 - 关于
+title: 关于美敦雅康
 layout: page
 description: About
 bodyClass: page-about

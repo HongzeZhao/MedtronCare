@@ -1,5 +1,5 @@
 ---
-title: 美敦雅康医学 - 联系与合作
+title: 联系方式
 layout: contact
 description: Contact
 ---
