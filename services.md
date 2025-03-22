@@ -2,7 +2,7 @@
 title: 美敦雅康医学 - 健康服务
 layout: services
 description: Services
-intro_image: "images/illustrations/reading.svg"
+intro_image: "images/illustrations/doctor_discuss.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---

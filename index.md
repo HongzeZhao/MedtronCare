@@ -2,7 +2,7 @@
 title: 美敦雅康医学
 layout: home
 description: 杭州美敦雅康医疗科技有限公司首页
-intro_image: "images/illustrations/pointing.svg"
+intro_image: "images/illustrations/doctor_female.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
