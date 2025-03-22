@@ -1,4 +1,4 @@
-baseurl: ''
+baseurl: '/'
 permalink: pretty
 title: '美敦雅康医学'
 
@@ -17,8 +17,10 @@ collections:
   services:
     output: true
     sort_by: weight
+    permalink: /services/:path/
   team:
     output: true
+    permalink: /team/:path/
 
 defaults:
   - scope:

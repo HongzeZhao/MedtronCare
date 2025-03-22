@@ -2,9 +2,6 @@ main:
   - name: "服务"
     url: "/services/"
     weight: 2
-  - name: "团队"
-    url: "/team/"
-    weight: 3
   - name: "关于美敦雅康"
     url: "/about/"
     weight: 4
